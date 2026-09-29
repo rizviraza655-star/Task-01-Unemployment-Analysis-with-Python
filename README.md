@@ -82,16 +82,6 @@ The notebook includes:
 
 ---
 
-📁 Repository Structure
-
-```
-├── CodeAplha.ipynb
-├── Unemployment in India.csv
-└── README.md
-```
-
----
-
 ▶️ How to Run
 
 1. Clone this repository.
